@@ -36,12 +36,9 @@
     "lint:typings:fix": "tslint --fix typings/index.d.ts"
   },
   "dependencies": {
-    "http-cookie-agent": "^6.0.5",
     "m3u8stream": "^0.8.6",
     "miniget": "^4.2.3",
-    "sax": "^1.4.1",
-    "tough-cookie": "^4.1.4",
-    "undici": "five"
+    "sax": "^1.4.1"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
